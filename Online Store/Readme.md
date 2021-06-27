@@ -1,8 +1,8 @@
-Name of the website: 
+Name of the website: Upaskar
 Theme: House Appliances and Furniture
 Aim: Aim of this webiste is to enable people to buy high quality furniture anywhere with the ease of just one click.
 Members Name: 1.Vishal Kumar Singh (Team Leader)
-              2.Uday Singh Gangola (Team Member)
+              2.Uday Singh Gangola (Team Member)/FrozenByteGit
 Tools: 1.Html
        2.CSS
        3.JavaScript
